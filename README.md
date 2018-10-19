@@ -6,7 +6,6 @@ Install https://github.com/freessl/get.acme.sh
 
 ```
 curl https://freessl.cn/api/get.acme.sh | sh
-
 ```
 
 or
